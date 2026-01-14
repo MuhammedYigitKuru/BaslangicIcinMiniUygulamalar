@@ -1,0 +1,13 @@
+import time
+time.sleep(2)
+print('Merhaba Kullanıcı!')
+time.sleep(2)
+print('Sana Hazırladığım Bu Kodları Umarım çalıştırırsın.')
+time.sleep(2)
+print("'print'Kodu Ekrana Bir şey Yazmak İçin Kullanılır.")
+time.sleep(2)
+print('Sadece Parantez Aç ve (Shift+2) veya (Esc nin Altındaki Tuşa Bas.)')
+time.sleep(2)
+print('https://www.sadikturan.com/python-kosul-ifadeleri/python-kosul-ifadeleri/1386')
+print('Bu Siteyi Ziyaret Etmeyi Unutmayın Tavsiyemdir.')
+time.sleep(2)
